@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react";
+import React from "react";
 
-function Movie() {
+function MoviePage() {
   return (
     <>
       <header>
@@ -13,4 +13,4 @@ function Movie() {
   );
 };
 
-export default Movie;
+export default MoviePage;
